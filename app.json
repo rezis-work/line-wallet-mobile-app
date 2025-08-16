@@ -38,6 +38,19 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "40ed4607-9822-4478-a46a-af1789795fe5"
+      }
+    },
+    "owner": "reziko26",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/40ed4607-9822-4478-a46a-af1789795fe5"
     }
   }
 }
