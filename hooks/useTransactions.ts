@@ -1,7 +1,8 @@
 import { useCallback, useState } from "react";
 import { Alert } from "react-native";
+import { API_URL } from "@/constants/api";
 
-interface Summary {
+export interface Summary {
   balance: number;
   income: number;
   expenses: number;
@@ -13,8 +14,6 @@ interface Transaction {
   description: string;
   date: string;
 }
-
-const API_URL = "https://linewalletapi.onrender.com/api";
 
 export const useTransactions = (userId: string) => {
   const [transactions, setTransactions] = useState<Transaction[]>([]);
