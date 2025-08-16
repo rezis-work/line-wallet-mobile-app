@@ -3,7 +3,7 @@
     "name": "linewallet",
     "slug": "linewallet",
     "description": "Line Wallet is a simple and secure way to manage your finances. It allows you to track your income and expenses, and get a clear overview of your financial situation.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/images/logo.png",
     "scheme": "linewallet",
