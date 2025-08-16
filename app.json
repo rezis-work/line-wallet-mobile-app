@@ -44,7 +44,8 @@
       "router": {},
       "eas": {
         "projectId": "40ed4607-9822-4478-a46a-af1789795fe5"
-      }
+      },
+      "EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY": "pk_test_bG92ZWQtcHVnLTUzLmNsZXJrLmFjY291bnRzLmRldiQ"
     },
     "owner": "reziko26",
     "runtimeVersion": {
